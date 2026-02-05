@@ -136,19 +136,3 @@ Both backends provide identical REST APIs:
 5. Run backend
 6. Run corresponding frontend
 7. Access application at `http://localhost:5173`
-
-## 🤝 Contributing
-1. Fork the repository
-2. Create feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit changes (`git commit -m 'Add AmazingFeature'`)
-4. Push to branch (`git push origin feature/AmazingFeature`)
-5. Open Pull Request
-
-## 📝 License
-This project is licensed under the MIT License.
-
-## 👥 Team
-CDAC BinToBloom Development Team
-
----
-**Note**: Both backend implementations provide identical functionality. Choose based on your technology preference or deployment requirements.
