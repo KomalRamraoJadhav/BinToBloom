@@ -1,0 +1,27 @@
+# .NET
+**/bin/
+**/obj/
+**/appsettings.json
+**/appsettings.*.json
+
+# Spring Boot
+**/target/
+**/application.properties
+**/application-*.properties
+**/.metadata/
+**/.settings/
+
+# Frontend
+**/node_modules/
+**/dist/
+**/build/
+**/.env
+**/.env.*
+
+# IDE
+**/.vs/
+**/.idea/
+**/*.user
+**/.classpath
+**/.project
+**/.factorypath
